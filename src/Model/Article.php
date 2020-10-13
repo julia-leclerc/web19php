@@ -148,6 +148,31 @@ class Article {
         $this->Description = $Description;
         return $this;
     }
+/*
+    public function setLibelle($Libelle)
+    {
+        $this->Titre = $Libelle;
+        return $this;
+    }
+
+    public function getLibelle()
+    {
+        return $this->Libelle;
+    }
+
+    public function getIcone()
+    {
+        return $this->Icone;
+    }
+
+    public function setIcone($Icone)
+    {
+        $this->Icone = $Icone;
+        return $this;
+    }
+
+    */
+
 
     /**
      * @return mixed
